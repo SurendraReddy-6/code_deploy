@@ -1,2 +1,2 @@
 #!/bin/bash
-systemctl httpd start 
+systemctl start httpd 
